@@ -1,3 +1,4 @@
+🔗 Google Colab Notebook: (https://colab.research.google.com/drive/1uEM6uPyQIDDDNba5nZfQBe7xG7AiqWS6?usp=sharing)
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Overview
@@ -24,3 +25,4 @@ This project analyzes how trader behavior and performance change under different
 
 ## Author
 Badi Mohit
+
